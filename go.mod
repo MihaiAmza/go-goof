@@ -1,6 +1,6 @@
 module go-goof
 
-go 1.12
+go 1.22.2
 
 require (
 	github.com/gin-gonic/gin v1.7.7
